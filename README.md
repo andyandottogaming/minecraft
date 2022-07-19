@@ -1,1 +1,1 @@
-# minecraft
+# Minecraft home page
